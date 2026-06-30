@@ -1,11 +1,11 @@
 <mxfile host="app.diagrams.net" type="device">
-  <diagram name="2 - Репликация" id="page-replication">
+  <diagram name="Задание 3 - Репликация" id="page-replication">
     <mxGraphModel dx="900" dy="600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="700" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
 
-        <mxCell id="r-title" value="Вариант 2. Шардирование + репликация (по 3 реплики на шард)" style="text;html=1;fontSize=16;fontStyle=1;align=left;verticalAlign=middle;" vertex="1" parent="1">
+        <mxCell id="r-title" value="Задание 3. Шардирование + репликация (по 3 реплики на шард)" style="text;html=1;fontSize=16;fontStyle=1;align=left;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="40" y="15" width="640" height="30" as="geometry" />
         </mxCell>
 

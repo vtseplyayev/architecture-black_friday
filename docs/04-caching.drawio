@@ -1,11 +1,11 @@
 <mxfile host="app.diagrams.net" type="device">
-  <diagram name="3 - Кеширование (Redis)" id="page-caching">
+  <diagram name="Задание 4 - Кеширование (Redis)" id="page-caching">
     <mxGraphModel dx="900" dy="600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="700" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
 
-        <mxCell id="c-title" value="Вариант 3. Шардирование + репликация + кеширование (Redis)" style="text;html=1;fontSize=16;fontStyle=1;align=left;verticalAlign=middle;" vertex="1" parent="1">
+        <mxCell id="c-title" value="Задание 4. Шардирование + репликация + кеширование (Redis)" style="text;html=1;fontSize=16;fontStyle=1;align=left;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="40" y="15" width="660" height="30" as="geometry" />
         </mxCell>
 
