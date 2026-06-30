@@ -19,7 +19,7 @@
 Из директории `mongo-sharding`:
 
 ```shell
-docker compose up -d --build
+docker compose up -d
 ```
 
 ## Инициализация шардирования

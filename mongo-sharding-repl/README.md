@@ -22,7 +22,7 @@
 Из директории `mongo-sharding-repl`:
 
 ```shell
-docker compose up -d --build
+docker compose up -d
 ```
 
 ## Инициализация кластера

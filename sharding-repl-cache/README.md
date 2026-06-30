@@ -27,7 +27,7 @@
 Из директории `sharding-repl-cache`:
 
 ```shell
-docker compose up -d --build
+docker compose up -d
 ```
 
 ## Инициализация кластера
