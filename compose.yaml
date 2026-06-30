@@ -1,7 +1,7 @@
 services:
   mongodb1:
     container_name: mongodb1
-    image: dh-mirror.gitverse.ru/mongo:latest
+    image: docker.io/library/mongo:latest # изменено на официальный репо, с gitverse практически не грузит (или останавливается на 40-50 мб и ошибка)
     volumes:
       - mongodb1_data_container:/data/db
 
